@@ -4,3 +4,5 @@ This is new code
 This is master, bug i should make some conflict
 1234 4321 1234567
 gogogogogogo~~
+make some conflict
+bugs
